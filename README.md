@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on building and scaling **Gymuzzi**, a production mobile app using React Native & Expo  <br>👯 I’m looking to collaborate on **React Native or Expo and mobile app projects**  <br>🤝 I’m looking for help with **advanced animations, performance optimization, and native modules**  <br>🌱 I’m currently learning **advanced React Native patterns and native integrations (Android/iOS)**  <br>💬 Ask me about **React Native, mobile app architecture, UI/UX implementation, and debugging**  <br>⚡ Fun fact: I love polishing micro-interactions until they *feel* just right
+# 💫 About Me
+
+🔭 I’m currently building **backend services and scalable APIs using FastAPI**, while expanding my full-stack development skills.
+📱 I have experience building and maintaining **cross-platform mobile applications with React Native and Expo**, focusing on performance, architecture, and clean UI implementation.
+👯 I’m looking to collaborate on **React Native, FastAPI, and full-stack mobile application projects.**
+🤝 I’m looking for help with **backend architecture, scalable API design, authentication, databases, cloud deployment, and system design.**
+🌱 I’m currently learning **FastAPI, Python, PostgreSQL, Docker, Redis, and backend best practices.**
+💬 Ask me about **React Native, Expo, TypeScript, FastAPI, REST APIs, mobile app architecture, UI implementation, and debugging.**
+⚡ Fun fact: I enjoy building polished mobile experiences and scalable backend systems that work seamlessly together.
 
 
 ## 🌐 Socials:
